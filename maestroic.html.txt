@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Moja stránka</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- sem vlož HTML kód z JSFiddle -->
+
+  <script src="script.js"></script>
+</body>
+</html>
 <h2><u>Maestro.ic</u></h2>
 
 <p align="middle"><i>Toto je oficiálna stránka Claytona Parksa alias Maestro Parks.
