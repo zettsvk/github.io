@@ -1,0 +1,29 @@
+body {
+      margin: 0;
+      font-family: sans-serif;
+      position: relative;
+      z-index: 0;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0; left: 0;
+      width: 100vw;
+      height: 100vh;
+      background-image: url('https://artic.leosight.cz/www/iris.ic/img/18489_581ebf.jpg');
+      background-size: cover;
+      background-position: center;
+      opacity: 0.6; /* Tu nastavíš "vyblednutie" */
+      z-index: -1;
+    }
+
+    h2, div {
+      text-align: center;
+      color: black; /* Zmeň na bielu ak pozadie bude tmavé */
+    }
+
+table, th, td {
+  border:1px solid black;
+  ;
+}
