@@ -1,0 +1,30 @@
+<h2><u>Maestro.ic</u></h2>
+
+<p align="middle"><i>Toto je oficiálna stránka Claytona Parksa alias Maestro Parks.
+  <br>Po kliknutí na obrázok sa dostanete na oficiálny Iris profil <b>Maestra Parksa</b></i></p>
+
+  <div>
+    <a href="https://artic.leosight.cz/iris.ic/maestro" target="_blank">
+      <img src="https://artic.leosight.cz/www/_home/iris.png" alt="Maestro.ic" width="100">
+    </a>
+  </div>
+  <table style="margin: 1px auto; border-collapse: collapse";>
+  <tr>
+    <td>
+      <h4 align="middle"><i><u>About me</u></i></h4>
+      <p align="middle">Som kvalifikovaný automechanik na opravu a úpravu novších i starších vozidiel. Ak by si mal záujem o moje služby, kontaktuj ma na mojej e-mailovej adrese alebo na môj Iris účet. </p>
+    </td>
+  </tr>
+  </table>
+  
+  <hr>
+  <table style="margin: 20px auto; border-collapse: separate; text-align: center; background: lightblue;">
+    <tr>
+      <th>Telefonický kontakt</th>
+      <th>E-mailová adresa</th>
+    </tr>
+    <tr>
+      <td align="middle"><i>744-922</i></td>
+      <td><i>clayton.parks@post.ic</i></td>
+    </tr>
+  </table>
